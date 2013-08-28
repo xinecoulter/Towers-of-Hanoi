@@ -17,16 +17,26 @@
   width: 20px;
   border-style: solid;
   border-width: 5px;
+  display: inline-block;
+}
+
+#play-area {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #tower-1 {
-
+  position: absolute;
+  left: 200px;
 }
 
 #tower-2 {
-
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #tower-3 {
-
+  position: absolute;
+  right: 500px;
 }

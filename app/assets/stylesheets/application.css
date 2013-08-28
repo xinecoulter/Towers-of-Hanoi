@@ -50,7 +50,7 @@
   background-color: pink;
   position: absolute;
   left: 0;
-  bottom: 100px;
+  bottom: 400px;
 }
 
 #medium-piece {
@@ -60,7 +60,7 @@
   background-color: purple;
   position: absolute;
   left: 0;
-  bottom: 75px;
+  bottom: 375px;
 }
 
 #large-piece {
@@ -70,7 +70,7 @@
   background-color: green;
   position: absolute;
   left: 0;
-  bottom: 50px;
+  bottom: 350px;
 }
 
 

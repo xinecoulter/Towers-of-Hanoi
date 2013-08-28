@@ -19,6 +19,7 @@
   border-width: 5px;
   display: inline-block;
   background-color: brown;
+  z-index: -1;
 }
 
 #play-area {
@@ -47,6 +48,9 @@
   border-width: 1px;
   width: 100px;
   background-color: pink;
+  position: absolute;
+  left: 0;
+  bottom: 100px;
 }
 
 #medium-piece {
@@ -54,6 +58,9 @@
   border-width: 1px;
   width: 200px;
   background-color: purple;
+  position: absolute;
+  left: 0;
+  bottom: 75px;
 }
 
 #large-piece {
@@ -61,6 +68,9 @@
   border-width: 1px;
   width: 300px;
   background-color: green;
+  position: absolute;
+  left: 0;
+  bottom: 50px;
 }
 
 

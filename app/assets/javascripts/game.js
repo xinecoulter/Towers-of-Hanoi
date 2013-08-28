@@ -9,6 +9,8 @@ var Game = {
             tower3 = [];
         console.log("you clicked on a game piece");
         console.log(event);
+        console.log(event.currentTarget.html());
+        // if (event.currentTarget.innerHTML())
     }
 };
 
